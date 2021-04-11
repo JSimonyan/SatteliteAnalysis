@@ -1,4 +1,5 @@
 The set includes images of 50 US state capitals and Washington DC.
+The resolution is 32x32 pixels, for analysis they will likely be resized to a lower resolution.
 
 The image dates can range from 2016 to 2020 since environmental factors
 lend to inconsistent images (primarily cloud coverage).
