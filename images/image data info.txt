@@ -1,0 +1,11 @@
+The set includes images of 50 US state capitals and Washington DC.
+
+The image dates can range from 2016 to 2020 since environmental factors
+lend to inconsistent images (primarily cloud coverage).
+
+Each city has two images and any quantified topographical changes will be 
+described as a rate: 
+
+% change in heatmap / (year_2 - year_1) 
+
+with the implicit assumption that this change will be close to linear.
