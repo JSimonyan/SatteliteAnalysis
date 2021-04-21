@@ -68,10 +68,10 @@ Fresno,CA,California,Fresno,36.7831,-119.7941,703498,1789,polygon,FALSE,TRUE,FAL
 Allentown,PA,Pennsylvania,Lehigh,40.5961,-75.4756,683794,2672,polygon,FALSE,TRUE,FALSE,America/New_York,2,7
 Tulsa,OK,Oklahoma,Tulsa,36.1284,-95.9042,671033,784,polygon,FALSE,TRUE,FALSE,America/Chicago,2,50
 Cape Coral,FL,Florida,Lee,26.6446,-81.9956,668382,708,polygon,FALSE,TRUE,FALSE,America/New_York,2,9
-Concord,CA,California,Contra Costa,37.9722,-122.0016,652308,1633,polygon,FALSE,TRUE,TRUE,America/Los_Angeles,2,7
+Concord,CA,California,Contra Costa,37.9722,-122.0016,652308,1633,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,2,7
 Colorado Springs,CO,Colorado,El Paso,38.8674,-104.7606,642413,946,polygon,FALSE,TRUE,FALSE,America/Denver,2,41
-Charleston,SC,South Carolina,Charleston,32.8153,-79.9628,628377,480,polygon,FALSE,TRUE,TRUE,America/New_York,2,15
-Springfield,MA,Massachusetts,Hampden,42.1155,-72.5395,623401,1860,polygon,FALSE,TRUE,TRUE,America/New_York,2,20
+Charleston,SC,South Carolina,Charleston,32.8153,-79.9628,628377,480,polygon,FALSE,TRUE,FALSE,America/New_York,2,15
+Springfield,MA,Massachusetts,Hampden,42.1155,-72.5395,623401,1860,polygon,FALSE,TRUE,FALSE,America/New_York,2,20
 Grand Rapids,MI,Michigan,Kent,42.962,-85.6562,609314,1734,polygon,FALSE,TRUE,FALSE,America/Detroit,2,15
 Mission Viejo,CA,California,Orange,33.6095,-117.655,590249,2058,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,2,3
 Albany,NY,New York,Albany,42.6664,-73.7987,586383,1740,polygon,FALSE,TRUE,TRUE,America/New_York,2,38
@@ -98,6 +98,7 @@ Denton,TX,Texas,Denton,33.2176,-97.1419,457177,567,polygon,FALSE,TRUE,FALSE,Amer
 Madison,WI,Wisconsin,Dane,43.0826,-89.3931,447245,1263,polygon,FALSE,TRUE,TRUE,America/Chicago,2,29
 Reno,NV,Nevada,Washoe,39.5497,-119.8483,445020,907,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,2,18
 Harrisburg,PA,Pennsylvania,Dauphin,40.2752,-76.8843,442289,2343,polygon,FALSE,TRUE,TRUE,America/New_York,2,18
+Charleston,WV,West Virginia,Kanawha,38.3484,-81.6323,138706,570,polygon,FALSE,TRUE,TRUE,America/New_York,2,34
 Little Rock,AR,Arkansas,Pulaski,34.7256,-92.3576,439815,634,polygon,FALSE,TRUE,TRUE,America/Chicago,2,22
 Oakland,CA,California,Alameda,37.7903,-122.2165,433031,2991,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,2,30
 Durham,NC,North Carolina,Durham,35.9794,-78.9031,424700,959,polygon,FALSE,TRUE,FALSE,America/New_York,2,14
@@ -112,7 +113,7 @@ Lancaster,PA,Pennsylvania,Lancaster,40.0421,-76.3012,401524,3166,polygon,FALSE,T
 Arlington,TX,Texas,Tarrant,32.6998,-97.125,398854,1607,polygon,FALSE,TRUE,FALSE,America/Chicago,2,20
 Stockton,CA,California,San Joaquin,37.9765,-121.3109,397264,1941,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,2,17
 Poughkeepsie,NY,New York,Dutchess,41.6949,-73.921,394760,2290,polygon,FALSE,TRUE,FALSE,America/New_York,2,3
-Augusta,GA,Georgia,Richmond,33.3645,-82.0708,390809,252,polygon,FALSE,TRUE,TRUE,America/New_York,2,15
+Augusta,GA,Georgia,Richmond,33.3645,-82.0708,390809,252,polygon,FALSE,TRUE,FALSE,America/New_York,2,15
 Boise,ID,Idaho,Ada,43.6007,-116.2312,389280,1056,polygon,FALSE,TRUE,TRUE,America/Boise,2,22
 Oxnard,CA,California,Ventura,34.1963,-119.1815,387647,3040,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,2,7
 Scranton,PA,Pennsylvania,Lackawanna,41.4044,-75.6649,384250,1169,polygon,FALSE,TRUE,FALSE,America/New_York,2,9
@@ -906,6 +907,7 @@ Placentia,CA,California,Orange,33.8807,-117.8553,51233,2990,polygon,FALSE,TRUE,F
 Hinesville,GA,Georgia,Liberty,31.8247,-81.6135,51206,707,polygon,FALSE,TRUE,FALSE,America/New_York,3,2
 Collierville,TN,Tennessee,Shelby,35.0471,-89.6988,51040,544,polygon,FALSE,TRUE,FALSE,America/Chicago,3,3
 West Lafayette,IN,Indiana,Tippecanoe,40.4432,-86.9239,50996,1449,polygon,FALSE,TRUE,FALSE,America/Indiana/Indianapolis,3,3
+Springfield,IL,Illinois,Sangamon,39.771,-89.6538,158509,723,polygon,FALSE,TRUE,TRUE,America/Chicago,2,31
 Florissant,MO,Missouri,St. Louis,38.7996,-90.3269,50952,1567,polygon,FALSE,TRUE,FALSE,America/Chicago,3,3
 Hoffman Estates,IL,Illinois,Cook,42.0639,-88.1468,50932,933,polygon,FALSE,TRUE,FALSE,America/Chicago,3,8
 Queen Creek,AZ,Arizona,Maricopa,33.2386,-111.6343,50890,606,polygon,FALSE,TRUE,FALSE,America/Phoenix,3,2
@@ -1003,6 +1005,7 @@ Fort Pierce,FL,Florida,St. Lucie,27.4256,-80.3431,46103,751,polygon,FALSE,TRUE,F
 Winter Garden,FL,Florida,Orange,28.5421,-81.5966,46051,1094,polygon,FALSE,TRUE,FALSE,America/New_York,3,1
 Oro Valley,AZ,Arizona,Pima,32.4208,-110.9768,46044,509,polygon,FALSE,TRUE,FALSE,America/Phoenix,3,3
 Morgan Hill,CA,California,Santa Clara,37.1326,-121.6417,45952,1365,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,3,1
+Augusta,ME,Maine,Kennebec,44.3341,-69.7319,22116,130,polygon,FALSE,TRUE,TRUE,America/New_York,3,5
 Potomac,MD,Maryland,Montgomery,39.0141,-77.1943,45940,705,polygon,FALSE,FALSE,FALSE,America/New_York,3,4
 Pinehurst,NC,North Carolina,Moore,35.1922,-79.4684,45935,384,polygon,FALSE,TRUE,FALSE,America/New_York,3,2
 Rockwall,TX,Texas,Rockwall,32.9169,-96.4377,45888,603,polygon,FALSE,TRUE,FALSE,America/Chicago,3,3
@@ -2640,6 +2643,7 @@ Park City,UT,Utah,Summit,40.6505,-111.502,15061,164,polygon,FALSE,TRUE,FALSE,Ame
 Oldsmar,FL,Florida,Pinellas,28.0507,-82.6698,15061,650,polygon,FALSE,TRUE,FALSE,America/New_York,3,2
 Washington Court House,OH,Ohio,Fayette,39.5383,-83.4279,15059,618,polygon,FALSE,TRUE,FALSE,America/New_York,3,1
 Coto de Caza,CA,California,Orange,33.5961,-117.5862,15056,753,polygon,FALSE,FALSE,FALSE,America/Los_Angeles,3,1
+Concord,NH,New Hampshire,Merrimack,43.2305,-71.5595,43627,263,polygon,FALSE,TRUE,TRUE,America/New_York,2,4
 Seaford,NY,New York,Nassau,40.6678,-73.4922,15040,2225,polygon,FALSE,FALSE,FALSE,America/New_York,2,1
 Depew,NY,New York,Erie,42.9117,-78.7044,15011,1141,polygon,FALSE,TRUE,FALSE,America/New_York,3,1
 Susanville,CA,California,Lassen,40.4205,-120.6129,15010,729,polygon,FALSE,TRUE,FALSE,America/Los_Angeles,3,2
